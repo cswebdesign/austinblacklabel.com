@@ -12,8 +12,8 @@ theme = "hugo-minimalist-theme"
     site_description = "First Hugo website."
     location = "Austin, TX"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    avatar = "images/logo.png"
+    header_background = "images/banner.jpg"
     header_title = "The Header"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
